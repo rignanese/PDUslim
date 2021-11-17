@@ -3,7 +3,7 @@ Commissioning and test
 
 
 ## Tiles' specs.
-(from Simone)
+(from Pisa)
 | PDU position   | TILE name    | Technology |  photocurrent (μA) | note (nt = not tested, ot = only-tile test) |
 | :------------: | :----------: | :-------: | :----------: | -------: |
 | 1 | T128 | run3 | -20 | |
@@ -51,7 +51,7 @@ Commissioning and test
 
 
 ## Channels' specs.
-(from Simone)
+(from Pisa)
 
 | Channel number | Technology | comment |
 | :------------: | :----------: | ------- |
