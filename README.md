@@ -2,7 +2,7 @@
 Commissioning and test
 
 
-## Tiles' specs.
+## PDM specs
 (from Pisa)
 | PDU position   | TILE name    | Technology |  photocurrent (μA) | note (nt = not tested, ot = only-tile test) |
 | :------------: | :----------: | :-------: | :----------: | -------: |
