@@ -73,7 +73,7 @@ Commissioning and test
 ## Warm IVs 11/11/2021 19:07-19:39 CEST Naples
 ### IVs
 ![IV_tot_f](https://user-images.githubusercontent.com/75016958/142066592-ef2d97b7-2da4-4fd5-bd7c-880adddacea6.png)
-PDM6 arrived dead (broken wire bonding) and PDM17 showed extra current (not good devices anyway) and are switched off.
+PDM6 arrived dead (broken wire bonding) and PDM18 showed extra current (not good devices anyway) and are switched off.
  
  ### 75V current-channel distribution
  
