@@ -28,7 +28,7 @@ Commissioning and test
 | 19 | T112 | 8 | 12 | run3 | -40 | nt, scratches ||
 | 20 | T116 | 11 | 17 | run3 | -49 | nt ||
 | 21 | T103 | 11 | 17 | run3 | -20 | nt ||
-| 22 | T102 | 12 | 16 | run3 | -49 | nt, feb: bent pin recovered |22|
+| 22 | T102 | 12 | 16 | run3 | -49 | nt, feb: bent pin recovered |y|
 | 23 | T131 | 12 | 16 | run3 | -20 | nt, feb: anomalous current ||
 | 24 | T120 | NC | NC | run3 | -49 | nt, in a bad shape ||
 
