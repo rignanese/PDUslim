@@ -95,8 +95,8 @@ PDM6 arrived dead (broken wire bonding) and PDM18 showed extra current (not good
 ![IV_cold](https://user-images.githubusercontent.com/75016958/142669048-33d58dbc-8304-46be-ae72-e36a4fc70999.png)
 
 ## Cold IVs 19/11/2021 Naples
-||||
-|:|:|:|
+|a|b|c|
+|:-:|:-:|:-:|
 |![PDM0](https://user-images.githubusercontent.com/75016958/142742247-cc8a2b89-13d9-4a60-8241-958f789bb455.png)
 |![PDM1](https://user-images.githubusercontent.com/75016958/142742249-8f68f101-7511-4b72-9884-e6506adba173.png)
 |![PDM2](https://user-images.githubusercontent.com/75016958/142742255-f8130bc6-6604-493d-b992-22169329c226.png)|
