@@ -4,33 +4,33 @@ Commissioning and test
 
 ## PDM specs
 (from Pisa)
-| PDU position   | TILE name    | Technology |  photocurrent (μA) | note (nt = not tested, ot = only-tile test) |
-| :------------: | :----------: | :-------: | :----------: | -------: |
-| 0 | T128 | run3 | -20 | |
-| 1 | T119 | run3 | -50 | |
-| 2 | T140 | AlSi | -50 | |
-| 3 | T144 | AlSi | -44 | nt |
-| 4 | T166 | AlCu | -21 | ot |
-| 5 | T139 | AlSi | -50 | ot |
-| 6 |  T157 | AlSi | -48 | ot |
-| 7 |  T118 | run3 | -50 | |
-| 8 |  T121 | run3 | -49 | |
-| 9 |  T159 | AlCu |-38 | ot |
-| 10 |  T168 | AlSi | -20 | ot |
-| 11 | T141 | AlSi | -20 | ot |
-| 12 | T146 | AlSi | -49 | |
-| 13 | T170 | AlCu | -20 | |
-| 14 | T114 | run3 | -49 | nt |
-| 15 | T127 | run3 | -20 | |
-| 16 | T124 | run3 | -50 | |
-| 17 | T164 | AlCu | -49 | |
-| 18 | T149 | AlCu | -20 | |
-| 19 | T112 | run3 | -40 | nt, scratches |
-| 20 | T116 | run3 | -49 | nt |
-| 21 | T103 | run3 | -20 | nt |
-| 22 | T102 | run3 | -49 | nt, feb: bent pin recovered |
-| 23 | T131 | run3 | -20 | nt, feb: anomalous current |
-| 24 | T120 | run3 | -49 | nt, in a bad shape |
+| PDU position   | TILE name    | Trasmitter ch.| DAQ ch. | Technology |  photocurrent (μA) | PISA note (nt = not tested, ot = only-tile test) | DEAD |
+| :------------: | :----------: | :----------:  |:-------:| :-------: | :----------: | -------: | :----: |
+| 0 | T128 | 1 | 11 | run3 | -20 | ||
+| 1 | T119 | 1 | 11 | run3 | -50 | ||
+| 2 | T140 | 2 | 10 | AlSi | -50 | ||
+| 3 | T144 | 2 | 10 | AlSi | -44 | nt ||
+| 4 | T166 | 3 | 9 | AlCu | -21 | ot |y|
+| 5 | T139 | 4 | 8 | AlSi | -50 | ot ||
+| 6 |  T157 | 4 | 8 | AlSi | -48 | ot ||
+| 7 |  T118 | 5 | 15 | run3 | -50 | ||
+| 8 |  T121 | 5 | 15 | run3 | -49 | ||
+| 9 |  T159 | 3 | 9 | AlCu |-38 | ot ||
+| 10 |  T168 | 6 | 14 | AlSi | -20 | ot ||
+| 11 | T141 | 6 | 14 | AlSi | -20 | ot ||
+| 12 | T146 | 7 | 13 | AlSi | -49 | |y|
+| 13 | T170 | 7 | 13 | AlCu | -20 | ||
+| 14 | T114 | 8 | 12 | run3 | -49 | nt ||
+| 15 | T127 | 9 | 19 | run3 | -20 | ||
+| 16 | T124 | 9 | 19 | run3 | -50 | ||
+| 17 | T164 | 10 | 18 | AlCu | -49 | |y|
+| 18 | T149 | 10 | 18 | AlCu | -20 | ||
+| 19 | T112 | 8 | 12 | run3 | -40 | nt, scratches ||
+| 20 | T116 | 11 | 17 | run3 | -49 | nt ||
+| 21 | T103 | 11 | 17 | run3 | -20 | nt ||
+| 22 | T102 | 12 | 16 | run3 | -49 | nt, feb: bent pin recovered |22|
+| 23 | T131 | 12 | 16 | run3 | -20 | nt, feb: anomalous current ||
+| 24 | T120 | NC | NC | run3 | -49 | nt, in a bad shape ||
 
 
 ## PDM map
