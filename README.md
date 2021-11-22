@@ -105,7 +105,7 @@ PDM6 arrived dead (broken wire bonding) and PDM18 showed extra current (not good
 |![PDM19](https://user-images.githubusercontent.com/75016958/142742324-c436abf5-6b4f-4b4d-9b3d-80c736cf6a9f.png)|![PDM20](https://user-images.githubusercontent.com/75016958/142742326-34f62f55-bb3a-45a6-a5b7-f8b97d3dc182.png)|![PDM21](https://user-images.githubusercontent.com/75016958/142742331-2d92e358-97c9-4b3f-9134-40d19d89bf5e.png)|
 |![PDM23](https://user-images.githubusercontent.com/75016958/142742333-fc37cc3f-b4b2-4840-adf9-0d9a0e273f94.png)||
 
-# RUN 22/11/2021
+# LASER RUN 22/11/2021
 
 | RUN TYPE             | all channel scan                                             | 22/11/2021 |      |          |
 | -------------------- | ------------------------------------------------------------ | ---------- | ---- | -------- |
