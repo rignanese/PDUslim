@@ -104,3 +104,34 @@ PDM6 arrived dead (broken wire bonding) and PDM18 showed extra current (not good
 |![PDM15](https://user-images.githubusercontent.com/75016958/142742316-cbe2c836-7bd7-4aaa-9f9d-7b15afbe004e.png)|![PDM16](https://user-images.githubusercontent.com/75016958/142742318-332c6ae4-8d66-4feb-8143-b8f9f6c4f177.png)|![PDM18](https://user-images.githubusercontent.com/75016958/142742320-166e3c45-9e58-425e-9cc1-bf4afb5b0f9d.png)|
 |![PDM19](https://user-images.githubusercontent.com/75016958/142742324-c436abf5-6b4f-4b4d-9b3d-80c736cf6a9f.png)|![PDM20](https://user-images.githubusercontent.com/75016958/142742326-34f62f55-bb3a-45a6-a5b7-f8b97d3dc182.png)|![PDM21](https://user-images.githubusercontent.com/75016958/142742331-2d92e358-97c9-4b3f-9134-40d19d89bf5e.png)|
 |![PDM23](https://user-images.githubusercontent.com/75016958/142742333-fc37cc3f-b4b2-4840-adf9-0d9a0e273f94.png)||
+
+# RUN 22/11/2021
+
+| RUN TYPE             | all channel scan                                             | 22/11/2021 |      |          |
+| -------------------- | ------------------------------------------------------------ | ---------- | ---- | -------- |
+|                      |                                                              |            |      |          |  |
+|                      |                                                              |            |      |          |  |
+| V\_set (V)           | Current (uA)                                                 | V\_real (V)| RUN# | VoV (V)  | ev. number |
+| 74.3                 | 126                                                          | 73.04      | 765  | 9.02     | 100k |
+| 70.2                 | 118.7                                                        | 69.013     | 766  | 7.0065   | 113k |
+| 66.2                 | 111.7                                                        | 65.083     | 767  | 5.0415   | 115k |
+| 63.1                 | 106.3                                                        | 62.037     | 768  | 3.5185   | 113k |
+| 50.85                | 85.18                                                        | 49.9982    | 769  | \-2.5009 | 113k |
+|                      |                                                              |            |      |          |  |
+|                      | even channels (1,3,4,5,7,9,11,12,13,15,17,19,21,22,23,24)OFF |            |      |          |  |
+| V\_set (V)           | Current (uA)                                                 | V\_real (V)| RUN# | VoV (V)  | ev. number |
+| 73.55                | 55.67                                                        | 72.9933    | 774  | 8.99665  | 111k |
+| 69.55                | 52.6                                                         | 69.024     | 773  | 7.012    | 102k |
+| 65.5                 | 49.5                                                         | 65.005     | 772  | 5.0025   | 111k |
+| 62.5                 | 47.2                                                         | 62.028     | 771  | 3.514    | 112k |
+| 50.4                 | 37.9                                                         | 50.021     | 770  | \-2.4895 | 112k |
+|                      |                                                              |            |      |          |  |
+|                      |                                                              |            |      |          |  |
+|                      | ODD channels (0,2,4,6,8,10,12,14,16,17,18,20,22,24)OFF       |            |      |          |  |
+| V\_set (V)           | Current (uA)                                                 | V\_real (V)| RUN# | VoV (V)  | ev. number |
+| 73.75                | 70.6                                                         | 73.044     | 780  | 9.022    | 113k |
+| 69.7                 | 66.38                                                        | 69.0362    | 779  | 7.0181   | 112k |
+| 65.65                | 62.36                                                        | 65.0264    | 778  | 5.0132   | 112k |
+| 62.6                 | 59.3                                                         | 62.007     | 776  | 3.5035   | 112k |
+| 50.5                 | 47.4                                                         | 50.026     | 775  | \-2.487  | 112k |
+| note: 777 broken run |                                                              |            |      |
