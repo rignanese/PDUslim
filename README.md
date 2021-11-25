@@ -135,3 +135,20 @@ PDM6 arrived dead (broken wire bonding) and PDM18 showed extra current (not good
 | 62.6                 | 59.3                                                         | 62.007     | 776  | 3.5035   | 112k |
 | 50.5                 | 47.4                                                         | 50.026     | 775  | \-2.487  | 112k |
 | note: 777 broken run |                                                              |            |      |
+|continue...|||
+
+
+# Analysis
+Four best channels (both tiles turned on and pretty homogeneous) are chosen for the analysis:
+* ch11
+* ch14
+* ch15
+* ch19
+* 
+## Cold IVs
+
+![IV_cold_belle](https://user-images.githubusercontent.com/75016958/143454421-26465230-70f2-48ec-8293-dda4571e80d6.png)
+
+##
+
+
