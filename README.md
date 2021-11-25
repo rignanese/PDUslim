@@ -144,11 +144,16 @@ Four best channels (both tiles turned on and pretty homogeneous) are chosen for 
 * ch14
 * ch15
 * ch19
-* 
+
 ## Cold IVs
 
 ![IV_cold_belle](https://user-images.githubusercontent.com/75016958/143454421-26465230-70f2-48ec-8293-dda4571e80d6.png)
 
-##
+## Performance
+
+### SNR
+
+
+### Time resolution
 
 
