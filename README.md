@@ -55,6 +55,9 @@ Commissioning and test
 | 19 | 19 | 18 | 18 | 12 |
 | 17 | 17 | 16 | 16 | == |
 
+![WhatsApp Image 2021-12-01 at 12 11 49](https://user-images.githubusercontent.com/75016958/145374145-6a3b67e8-bb21-4328-94a0-120a962d3347.jpeg)
+
+
 
 
 ## Channels' specs.
@@ -150,10 +153,25 @@ Four best channels (both tiles turned on and pretty homogeneous) are chosen for 
 ![IV_cold_belle](https://user-images.githubusercontent.com/75016958/143454421-26465230-70f2-48ec-8293-dda4571e80d6.png)
 
 ## Performance
+Typical signal:
+![immagine](https://user-images.githubusercontent.com/75016958/145374349-eb6b01a0-0a65-41a4-b8f6-e7a58178ce51.png)
+The signal from channel 11 with the two tiles in the pair alternatively turned on (red: TILE01 on, TILE00 off; blue: TILE01 off, TILE00 on).
+![immagine](https://user-images.githubusercontent.com/75016958/145374426-7f33db1a-737d-4c86-b8ef-048a16c0923d.png)
 
 ### SNR
+| Channel              | SNR @VoV = 5                                                 | SNR @ VoV = 7V |  SNR @ VoV = 9V    | 
+| -------------------- | ------------------------------------------------------------ | ---------- | ---- | 
+|11 (charge spectrum)  |       7.4                                                    |    10.2    |  13.8| 
+|11 (filtered amplitude spectrum)  |       7.3                                                    |    10.0    |  13.0| 
+|14 (charge spectrum)  |       6.9                                                    |    9.2    |  13.0| 
+|14 (filtered amplitude spectrum)  |       6.7                                                    |    9.1    |  12.0| 
+|15 (charge spectrum)  |       8.2                                                    |    11.1    |  13.6| 
+|15 (filtered amplitude spectrum)  |       7.4                                                    |    13.0    |  17.0| 
+|19 (charge spectrum)  |       10.2                                                    |    14.1    |  18.6| 
+|19 (filtered amplitude spectrum)  |       11                                                    |    14.0    |  19.0| 
 
 
 ### Time resolution
+![immagine](https://user-images.githubusercontent.com/75016958/145374592-5d3c48dd-0fe3-4d52-9516-f84e81edb4c1.png)
 
 
